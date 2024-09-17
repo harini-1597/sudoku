@@ -39,4 +39,4 @@ Ensure you have the following installed on your local machine:
 7. Watch how the sudoku solves itself using backtracking.
 
 # Video Demo
-https://drive.google.com/file/d/1sQ-EJVMEEazhsXYKMXjUVUnqdbuXw_en/view?usp=sharing
+[Video Demo](https://drive.google.com/file/d/1sQ-EJVMEEazhsXYKMXjUVUnqdbuXw_en/view?usp=sharing)
